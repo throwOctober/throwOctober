@@ -25,9 +25,9 @@
 
 | 项目 | 方向 | 展示入口 |
 | --- | --- | --- |
-| AI Hub Platform | 课程资料驱动备课与答疑，教学内容可审改、引用与评阅可回查 | [GitHub](https://github.com/throwOctober/ai-hub-platform-showcase) · [Gitee](https://gitee.com/yifeiyin/ai-hub-platform-showcase) |
-| 智训云平台 | 指导书与操作环境进入课时任务，依据步骤检查开展实训辅导 | [GitHub](https://github.com/throwOctober/zhixun-cloud-showcase) · [Gitee](https://gitee.com/yifeiyin/zhixun-cloud-showcase) |
-| SynapseX | 个人基线反馈连接 Blockly/Python、3D 场景与目标闯关 | [GitHub](https://github.com/throwOctober/synapsex-bci-showcase) · [Gitee](https://gitee.com/yifeiyin/synapsex-bci-showcase) |
+| AI Hub Platform | 受控技能自进化、评测驱动提示优化与可编排执行 | [GitHub](https://github.com/throwOctober/ai-hub-platform-showcase) · [Gitee](https://gitee.com/yifeiyin/ai-hub-platform-showcase) |
+| 智训云平台 | 版本化环境编排、执行判据与服务端学习进度聚合 | [GitHub](https://github.com/throwOctober/zhixun-cloud-showcase) · [Gitee](https://gitee.com/yifeiyin/zhixun-cloud-showcase) |
+| SynapseX | 脑电条件进入程序、指令驱动仿真与运行行为检查 | [GitHub](https://github.com/throwOctober/synapsex-bci-showcase) · [Gitee](https://gitee.com/yifeiyin/synapsex-bci-showcase) |
 
 ### 关注方向 / Focus
 
