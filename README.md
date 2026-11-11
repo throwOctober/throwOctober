@@ -1,7 +1,7 @@
 <img src="./header.svg" alt="Small tools. Useful AI. — AI workflows, local automation and developer experience" width="100%" />
 
 <p align="center">
-  <b>AI 平台 · 教学实训 · 脑电编程</b><br />
+  <b>教育 AI · 在线教学与云实训 · 教育脑机接口</b><br />
   <sub>Practical tools for everyday development.</sub>
 </p>
 
@@ -25,9 +25,9 @@
 
 | 项目 | 方向 | 展示入口 |
 | --- | --- | --- |
-| AI Hub Platform | 受控技能自进化与提示优化 · Agent Skills / Prompt Optimization | [GitHub](https://github.com/throwOctober/ai-hub-platform-showcase) · [Gitee](https://gitee.com/yifeiyin/ai-hub-platform-showcase) |
-| 智训云平台 | 云实训环境编排与操作核验 · Hands-on Labs | [GitHub](https://github.com/throwOctober/zhixun-cloud-showcase) · [Gitee](https://gitee.com/yifeiyin/zhixun-cloud-showcase) |
-| SynapseX | 脑电可编程交互与3D仿真 · EEG Programming / Educational BCI | [GitHub](https://github.com/throwOctober/synapsex-bci-showcase) · [Gitee](https://gitee.com/yifeiyin/synapsex-bci-showcase) |
+| AI Hub Platform | AI中台、备课与课程创作、RAG 知识库、科研辅助；受控技能自进化 · AI education / Agent Skills | [GitHub](https://github.com/throwOctober/ai-hub-platform-showcase) · [Gitee](https://gitee.com/yifeiyin/ai-hub-platform-showcase) |
+| 智训云平台 | 在线教学 LMS、课程作业与成绩、职业教育；云实训环境编排与步骤检查 · Hands-on Labs | [GitHub](https://github.com/throwOctober/zhixun-cloud-showcase) · [Gitee](https://gitee.com/yifeiyin/zhixun-cloud-showcase) |
+| SynapseX | 教育脑机接口、Blockly/Python、3D 仿真、本人基线与行为任务 · EEG Programming / Educational BCI | [GitHub](https://github.com/throwOctober/synapsex-bci-showcase) · [Gitee](https://gitee.com/yifeiyin/synapsex-bci-showcase) |
 
 ### 关注方向 / Focus
 
