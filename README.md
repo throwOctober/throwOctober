@@ -25,8 +25,8 @@
 
 | 项目 | 方向 | 展示入口 |
 | --- | --- | --- |
-| AI Hub Platform | AI中台、备课与课程创作、RAG 知识库、科研辅助；受控技能自进化 · AI education / Agent Skills | [GitHub](https://github.com/throwOctober/ai-hub-platform-showcase) · [Gitee](https://gitee.com/yifeiyin/ai-hub-platform-showcase) |
-| 智训云平台 | 在线教学 LMS、课程作业与成绩、职业教育；云实训环境编排与步骤检查 · Hands-on Labs | [GitHub](https://github.com/throwOctober/zhixun-cloud-showcase) · [Gitee](https://gitee.com/yifeiyin/zhixun-cloud-showcase) |
+| AI Hub Platform | 受控自进化AI中台；课程、实训指导、判题资产与多模态生成；RAG / Agent Skills | [GitHub](https://github.com/throwOctober/ai-hub-platform-showcase) · [Gitee](https://gitee.com/yifeiyin/ai-hub-platform-showcase) |
+| 智训云平台 | 云实训与环境编排；AI指导/判据草稿、环境内执行检查和证据评阅；LMS / Hands-on Labs | [GitHub](https://github.com/throwOctober/zhixun-cloud-showcase) · [Gitee](https://gitee.com/yifeiyin/zhixun-cloud-showcase) |
 | SynapseX | 教育脑机接口、Blockly/Python、3D 仿真、本人基线与行为任务 · EEG Programming / Educational BCI | [GitHub](https://github.com/throwOctober/synapsex-bci-showcase) · [Gitee](https://gitee.com/yifeiyin/synapsex-bci-showcase) |
 
 ### 关注方向 / Focus
