@@ -7,7 +7,7 @@
 
 ## 把真实问题，做成可复用的工具
 
-这里分享围绕 AI 辅助开发、本地自动化与开发者体验的开源实践。从日常开发中的具体问题出发，把解决方法整理成容易理解、可以运行、方便改进的小工具。
+这里展示 AI 教育中台、教学实训与脑机接口平台，并分享围绕 AI 辅助开发、本地自动化和开发者体验的开源工具。平台展示仓库提供介绍与演示资料；工具仓库按各自许可证发布。
 
 ### 开源作品 / Featured project
 
@@ -18,6 +18,16 @@
 `Python` · `macOS` · `Local-first` · `MIT`
 
 [查看源码 →](https://github.com/throwOctober/codex-local-project-sync) &nbsp; · &nbsp; [使用说明](https://github.com/throwOctober/codex-local-project-sync#readme) &nbsp; · &nbsp; [Gitee 镜像](https://gitee.com/yifeiyin/codex-local-project-sync)
+
+### 项目展示 / Project showcases
+
+以下三个平台仓库提供项目介绍、公开版 PPT、PDF 和预览图，不提供应用源码。
+
+| 项目 | 方向 | 展示入口 |
+| --- | --- | --- |
+| AI Hub Platform | 面向教学与科研的 AI 能力与内容工作流 | [GitHub](https://github.com/throwOctober/ai-hub-platform-showcase) · [Gitee](https://gitee.com/yifeiyin/ai-hub-platform-showcase) |
+| 智训云平台 | 连接课程学习、实训任务与评价反馈 | [GitHub](https://github.com/throwOctober/zhixun-cloud-showcase) · [Gitee](https://gitee.com/yifeiyin/zhixun-cloud-showcase) |
+| SynapseX | 围绕脑电观察、神经反馈与编程实践开展学习 | [GitHub](https://github.com/throwOctober/synapsex-bci-showcase) · [Gitee](https://gitee.com/yifeiyin/synapsex-bci-showcase) |
 
 ### 关注方向 / Focus
 
